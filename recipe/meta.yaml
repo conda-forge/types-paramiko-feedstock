@@ -1,5 +1,5 @@
 {% set name = "types-paramiko" %}
-{% set version = "2.8.12" %}
+{% set version = "2.8.13" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-paramiko-{{ version }}.tar.gz
-  sha256: 6e72b9cbe3df07c781f28890a8ba51f9717078d87bb1cb93e09a6e9d1b1bddb2
+  sha256: 97a286a7db318aa1aafc6548effc7507ae5f242cec84f56dfeb50fea20ee6576
 
 build:
   number: 0
