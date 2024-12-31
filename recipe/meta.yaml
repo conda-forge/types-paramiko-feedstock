@@ -20,9 +20,8 @@ requirements:
     - python {{ python_min }}
     - setuptools
   run:
-    - cryptography
+    - cryptography >=37.0.0
     - python >={{ python_min }}
-    - types-cryptography
 
 test:
   requires:
