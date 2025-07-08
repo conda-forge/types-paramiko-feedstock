@@ -1,4 +1,4 @@
-{% set version = "3.5.0.20250516" %}
+{% set version = "3.5.0.20250708" %}
 
 package:
   name: types-paramiko
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-paramiko/types_paramiko-{{ version }}.tar.gz
-  sha256: 8c2ac59648c16c5469aa0559abdb758a0f67f9f7cf36164b64654f7b6c2ebfb0
+  sha256: 45125bff40766db2d7d53bd1a4f329868293e512f2e6b7fe11c335111df027f2
 
 build:
   number: 0
