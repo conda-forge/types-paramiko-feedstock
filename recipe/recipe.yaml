@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "4.0.0.20260508"
+  version: "4.0.0.20260518"
 
 package:
   name: types-paramiko
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-paramiko/types_paramiko-${{ version }}.tar.gz
-  sha256: 3a00f0847fc4097ec99cfa53dca566169a50baefc93e2cace624642edec32bc1
+  sha256: 286f6830945cba63797eedf375ed87138d93198121253afe66c5d6dbcf91318d
 
 build:
   number: 0
