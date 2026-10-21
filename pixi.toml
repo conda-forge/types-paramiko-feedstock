@@ -5,7 +5,7 @@
 
 [workspace]
 name = "types-paramiko-feedstock"
-version = "2026.9.23"  # conda-smithy version used to generate this file
+version = "2026.10.21"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/types-paramiko-feedstock"
 authors = ["@conda-forge/types-paramiko"]
 channels = ["conda-forge"]
